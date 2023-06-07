@@ -1,0 +1,6 @@
+// 226 optimize path
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  }
+}
